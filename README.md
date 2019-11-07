@@ -12,7 +12,10 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(6).pdf" style="text-decoration:none;">General Knowledge Book (A self study reference and practice electronic book for learners) </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(7).pdf" style="text-decoration:none;">Objective General Knowledge and Current Affairs level 1   </a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(7).pdf" style="text-decoration:none;">Objective General Knowledge and Current Affairs level 1   </a></b></li>  
+  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(8).pdf" style="text-decoration:none;">The Book of Numbers   </a></b></li> 
                             
   <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(9).pdf" style="text-decoration:none;"> Caravan General Knowledge MCQs  </a></b></li>   
 
@@ -49,7 +52,7 @@
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(25).pdf" style="text-decoration:none;">Quick General Knowledge </a></b></li> 
 
-
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(26).pdf" style="text-decoration:none;">Puzzles to Puzzle You </a></b></li> 
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(27).pdf" style="text-decoration:none;"> More General Knowledge, English and Maths </a></b></li> 
 
@@ -65,7 +68,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(32).pdf" style="text-decoration:none;"> The General Knowledge Quiz Book  </a></b></li> 
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(33).pdf" style="text-decoration:none;"> Mathability &minus; Awaken The Math Genius In Your Child  </a></b></li> 
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(34).pdf" style="text-decoration:none;"> GK For Polytechnic TRB Examination </a></b></li>   
    
@@ -88,7 +91,7 @@
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(42).pdf" style="text-decoration:none;"> Biblical General Knowledge Guide </a></b></li>     
    
- 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(43).pdf" style="text-decoration:none;"> More Puzzles </a></b></li>
    
    <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(44).pdf" style="text-decoration:none;"> Indian Constitution Questions and Answers (1500+) </a></b></li>    
    
@@ -96,7 +99,7 @@
    
    <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(46).pdf" style="text-decoration:none;"> Basic Vocational Knowledge − Electrical Machines </a></b></li>   
    
-  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(47).pdf" style="text-decoration:none;"> Figuring: The Joy of Numbers </a></b></li> 
    
 <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(48).pdf" style="text-decoration:none;"> General Knowledge About Pakistan </a></b></li>    
    
