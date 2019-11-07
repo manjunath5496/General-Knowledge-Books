@@ -8,50 +8,48 @@
  
 <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(4).pdf" style="text-decoration:none;">General Knowledge 2018: India and World</a></b></li>
                                
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(5).pdf" style="text-decoration:none;">  NCERT Class-12 (Economics: Part 1)  </a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(5).pdf" style="text-decoration:none;">  General Knowledge Test Booklet </a></b></li>   
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(6).pdf" style="text-decoration:none;">NCERT Class-12 (Economics: Part 2) </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(6).pdf" style="text-decoration:none;">General Knowledge Book (A self study reference and practice electronic book for learners) </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(7).pdf" style="text-decoration:none;">NCERT Class-11 (Physics: Part 1)   </a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(7).pdf" style="text-decoration:none;">Objective General Knowledge and Current Affairs level 1   </a></b></li>   
+                            
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(9).pdf" style="text-decoration:none;"> Caravan General Knowledge MCQs  </a></b></li>   
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(10).pdf" style="text-decoration:none;">General Knowledge (Tutorials Point)</a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(8).pdf" style="text-decoration:none;">NCERT Class-11 (Physics: Part 2)</a></b></li>
-                               
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(9).pdf" style="text-decoration:none;"> NCERT Class-11 (Mathematics)  </a></b></li>   
-
- <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(10).pdf" style="text-decoration:none;">NCERT Class-11 (Economics)</a></b></li>
- 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(11).pdf" style="text-decoration:none;">NCERT Class-10 (Mathematics)  </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(11).pdf" style="text-decoration:none;">Upkar's Agriculture General Knowledge   </a></b></li> 
   
                                  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(12).pdf" style="text-decoration:none;"> NCERT Class-10 (Economics)  </a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(12).pdf" style="text-decoration:none;"> Current Affairs  </a></b></li>   
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(13).pdf" style="text-decoration:none;">NCERT Class-9 (Mathematics)</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(13).pdf" style="text-decoration:none;">Quantitative Aptitude Made Easy</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(14).pdf" style="text-decoration:none;">NCERT Class-9 (Economics) </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(14).pdf" style="text-decoration:none;">Professional Knowledge Book </a></b></li> 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(15).pdf" style="text-decoration:none;"> NCERT Class-6 (Mathematics)  </a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(15).pdf" style="text-decoration:none;"> TestFunda General Knowledge Quizzes</a></b></li> 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(16).pdf" style="text-decoration:none;">NCERT Class-12 (Business Studies: Part 1)</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(16).pdf" style="text-decoration:none;">Computer Knowledge For SBI/ IBPS Clerk/ PO/ RRB/ RBI/ SSC/ Insurance Exams</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(17).pdf" style="text-decoration:none;">NCERT Class-11 (Sociology: Part 2)</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(17).pdf" style="text-decoration:none;">Paper I: General Knowledge and Teaching Aptitude</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(18).pdf" style="text-decoration:none;">NCERT Class-11 (Political Science: Part 1)</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(18).pdf" style="text-decoration:none;">Hot Topics For Civil Services Preliminary examinations</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(19).pdf" style="text-decoration:none;">NCERT Class-10 (Political Science: Part 2)</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(19).pdf" style="text-decoration:none;">General Knowledge Research Crosswords </a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(20).pdf" style="text-decoration:none;">NCERT Class-9 (Geography) </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(20).pdf" style="text-decoration:none;">Basic General Knowledge Book (2012) </a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(21).pdf" style="text-decoration:none;">NCERT Class-11 (Chemistry: Part 1) </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(21).pdf" style="text-decoration:none;">General Science-1-Biochemistry and Cell Biology </a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(22).pdf" style="text-decoration:none;">NCERT Class-12 (Chemistry: Part 2) </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(22).pdf" style="text-decoration:none;">General Engineering Knowledge for Marine Engineers </a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(23).pdf" style="text-decoration:none;">NCERT Class-12 (Business Studies: Part 2) </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(23).pdf" style="text-decoration:none;">General Awareness For competitive exams </a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(24).pdf" style="text-decoration:none;">NCERT Class-12 (Accountancy: Part 1) </a></b></li> 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(25).pdf" style="text-decoration:none;">NCERT Class-12 (Accountancy: Part 2) </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(24).pdf" style="text-decoration:none;">General Knowledge Bank </a></b></li> 
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(25).pdf" style="text-decoration:none;">Quick General Knowledge </a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(26).pdf" style="text-decoration:none;">NCERT Class-11 (Accountancy: Part 2) </a></b></li> 
+
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(27).pdf" style="text-decoration:none;"> NCERT Class-6 (Science)  </a></b></li> 
 
