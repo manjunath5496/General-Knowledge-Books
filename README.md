@@ -105,12 +105,29 @@
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(49).pdf" style="text-decoration:none;"> Indian GK</a></b></li>  
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(50).pdf" style="text-decoration:none;"> GK Questions and answers (History, Geography, Economy, Polity, Sports and Science ) </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(50).pdf" style="text-decoration:none;"> GK Questions and answers (History, Geography, Economy, Polity, Sports and Science) </a></b></li> 
    
    <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(51).pdf" style="text-decoration:none;"> General Knowledge India </a></b></li>  
    
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(52).pdf" style="text-decoration:none;"> 100 Math Brainteasers</a></b></li>  
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(53).pdf" style="text-decoration:none;">101 Puzzles in Thought and Logic</a></b></li> 
    
-
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(54).pdf" style="text-decoration:none;"> Math puzzles: classic riddles in counting, geometry, probability, and game theory </a></b></li>  
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(55).pdf" style="text-decoration:none;"> Entertaining Mathematical Puzzles</a></b></li> 
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(56).pdf" style="text-decoration:none;">Math tricks, brain twisters, and puzzles</a></b></li> 
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(57).pdf" style="text-decoration:none;"> The Complete Book of Fun Maths: 250 Confidence-boosting Tricks, Tests and Puzzles </a></b></li>  
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/General-Knowledge-Books/blob/master/gkb(58).pdf" style="text-decoration:none;"> TOEFL Idioms Quiz Book</a></b></li>   
+   
+   
+   
+   
+   
+   
+   
    
  </ul>
