@@ -3,10 +3,10 @@
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(2).pdf" style="text-decoration:none;">India 2017: Reference Annual</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(3).pdf" style="text-decoration:none;"> NCERT Class-12 (Mathematics: Part 1)</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(3).pdf" style="text-decoration:none;"> Objective General English</a></b></li>
 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(4).pdf" style="text-decoration:none;">NCERT Class-12 (Mathematics: Part 2)</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(4).pdf" style="text-decoration:none;">General Knowledge 2018: India and World</a></b></li>
                                
   <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(5).pdf" style="text-decoration:none;">  NCERT Class-12 (Economics: Part 1)  </a></b></li>   
 
