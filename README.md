@@ -1,5 +1,5 @@
 <ul>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(1).pdf" style="text-decoration:none;">NCERT Class-12 (Physics: Part 1)</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(1).pdf" style="text-decoration:none;">Quantitative Aptitude for Competitive Examinations</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/NCERT-Books/blob/master/nrt(2).pdf" style="text-decoration:none;">NCERT Class-12 (Physics: Part 2)</a></b></li>  
   
